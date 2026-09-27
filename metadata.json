@@ -1,0 +1,6 @@
+{
+  "name": "Chowk Rider",
+  "description": "Ride-sharing app for Daharki locality, Sindh, Pakistan with simple Passenger and Rider modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
